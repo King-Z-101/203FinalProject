@@ -6,7 +6,7 @@ import processing.core.PApplet;
 /**
  * This class contains many functions written in a procedural style.
  * You will reduce the size of this class over the next several weeks
- * by refactoring this codebase to follow an OOP style.
+ * by refactoring this codebase to follow an OOP style. Hee
  */
 public final class Functions {
     public static final Random rand = new Random();
