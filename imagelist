@@ -25,6 +25,7 @@ dude images/dude0.png
 dude images/dude1.png
 dude images/dude2.png
 dude images/dude3.png
+dudeCoin images/marioDude.png
 fairy images/fairy0.png
 fairy images/fairy1.png
 fairy images/fairy2.png
@@ -38,3 +39,9 @@ sapling images/sapling1.png
 sapling images/sapling2.png
 sapling images/sapling3.png
 sapling images/sapling4.png
+coin images/bitcoin.png
+coin images/coin2.png
+coin images/coin3.png
+coin images/coin4.png
+coin images/coin5.png
+rock images/RockTile.png
