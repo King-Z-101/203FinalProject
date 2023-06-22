@@ -1,0 +1,5 @@
+1. The event is triggered with a mouse click
+2. When the mouse is clicked, a new coin entity spawns on the map. it should be noted that the coin only spawns when there are no obstacles 
+in its position.
+3. The coin affects all dudes in the world as all of the dudes focus on trying to catch the coin.
+4. The new entity is a bitcoin that has an animation that rotates itself and stays in plays until a dude is adjacent to it and then it is removed from the world.
